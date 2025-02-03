@@ -83,7 +83,7 @@ Feel free to reach out for feedback or suggestions:
 Email: ngabodaniel1000@gmail.com <br>
 GitHub: [Ngabo daniel](https://github.com/ngabodaniel1000)
 
-## find bug ❓
+## find any bug ❓
 if you found an issue or bug in project feel free you can contact us on Email: ngabodaniel1000@gmail.com
 
 ## author ✍️
