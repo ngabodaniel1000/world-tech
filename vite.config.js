@@ -8,5 +8,8 @@ export default defineConfig({
   build: {
     outDir: 'dist'
   },
-  server: { port: 8080 }
+  server: { 
+    historyApiFallback: true, // Ensure React Router works on Render
+
+   }
 })
